@@ -13,19 +13,19 @@ The long-term objective is to transition from human-assisted decision approval t
 
 ## Project Goals
 
-### Implement uncalibrated stereo image rectification
+ Implement uncalibrated stereo image rectification
 
-### Generate disparity maps and estimate depth
+ Generate disparity maps and estimate depth
 
-### Train a CNN for obstacle classification and navigation decisions
+ Train a CNN for obstacle classification and navigation decisions
 
-### Integrate Stereo Visual SLAM for mapping and localization
+ Integrate Stereo Visual SLAM for mapping and localization
 
-### Enable human-in-the-loop assisted decision mode
+ Enable human-in-the-loop assisted decision mode
 
-### Deploy real-time waypoint navigation from Raspberry Pi
+ Deploy real-time waypoint navigation from Raspberry Pi
 
-### Transition to fully autonomous flight
+ Transition to fully autonomous flight
 
 ## System Architecture
 ### Hardware
