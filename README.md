@@ -1,7 +1,7 @@
 # AetherNav
 Stereo vision–based autonomous drone navigation using CNN and Visual SLAM
 
-![Alt text](imgs/preview.png)
+![Drone preview](imgs/preview.png)
 
 
 # Stereo Vision–Based Autonomous Drone Navigation
